@@ -1,0 +1,5 @@
+Key-Notes
+
+•	The Abs_summ.py load and cleans our dataset. Complete dataset is cleaned and saved has a pkl file. It can be loaded whole fine tuning the model.
+•	Abstractive_finetune.ipynb  I tried finetuning on the dataset provided but it is taking more time than expected.
+•	(Not able to upload a rar file- big file)
